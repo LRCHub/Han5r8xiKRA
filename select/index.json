@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "熱異常",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2025-12-04T12:45:11.809485Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "熱異常+feat.足立レイ",
+      "artist": "いよわ",
+      "has_synced": true,
+      "path": "select/01_熱異常+feat.足立レイ_いよわ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "熱異常",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_熱異常_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "熱異常 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_熱異常_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "熱異常 feat.足立レイ",
+      "artist": "いよわ",
+      "has_synced": true,
+      "path": "select/04_熱異常_feat.足立レイ_いよわ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱異常 (feat. 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希 & KAITO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_熱異常_(feat._宵崎奏,_朝比奈まふゆ,_東雲絵名,_暁山瑞希_&_KAITO)_25時、ナイトコードで。.txt"
+    }
+  ]
+}
